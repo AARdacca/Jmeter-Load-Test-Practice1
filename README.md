@@ -30,8 +30,9 @@ Website for APIs - http://dmoney.roadtocareer.net
 <h3>Execute the following steps using CLI: </h3>
 
   - ``` git clone https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git ```
-  - ``` jmeter -n -t '.\booking.jmx' -l '.\booking.jtl' -e -o Reports ``` 
-  - ``` jmeter -n -t '.\Dmoney.jmx' -l '.\Dmoney.jtl' -e -o Reports ``` 
+  - ``` cd Jmeter-Load-Test-Practice1 ```
+  - ``` jmeter -n -t './Booking API Load Test/booking.jmx' -l './Booking API Load Test/booking.jtl' -e -o Reports ``` 
+  - ``` jmeter -n -t '../DMoney/DMoney.jmx' -l './DMoney/DMoney.jtl' -e -o Reports ``` 
 
 <h2>Load and Stress Test Excel Report:</h2>
 
