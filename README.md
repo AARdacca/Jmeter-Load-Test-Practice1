@@ -22,14 +22,14 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 <h3> Execute the following steps using JMeter: </h3> 
    
-  - ``` git clone [https://github.com/Yasir-Hossain-Katib/API-Load-Test.git](https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git) ```<br>
+  - ``` git clone https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git ```<br>
   - ``` Open ApacheJMeter ``` <br>
   - ``` From apacheJMeter open the JMX File ```<br> 
   - ``` Finally Run ```
 
 <h3>Execute the following steps using CLI: </h3>
 
-  - ``` git clone [https://github.com/Yasir-Hossain-Katib/yuyh.git](https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git) ```
+  - ``` git clone https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git ```
   - ``` jmeter -n -t '.\booking.jmx' -l '.\booking.jtl' -e -o Reports ``` 
   - ``` jmeter -n -t '.\Dmoney.jmx' -l '.\Dmoney.jtl' -e -o Reports ``` 
 
