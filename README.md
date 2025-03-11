@@ -22,14 +22,14 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 <h3> Execute the following steps using JMeter: </h3> 
    
-  - ``` git clone https://github.com/Yasir-Hossain-Katib/API-Load-Test.git ```<br>
+  - ``` git clone [https://github.com/Yasir-Hossain-Katib/API-Load-Test.git](https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git) ```<br>
   - ``` Open ApacheJMeter ``` <br>
   - ``` From apacheJMeter open the JMX File ```<br> 
   - ``` Finally Run ```
 
 <h3>Execute the following steps using CLI: </h3>
 
-  - ``` git clone https://github.com/Yasir-Hossain-Katib/yuyh.git ```
+  - ``` git clone [https://github.com/Yasir-Hossain-Katib/yuyh.git](https://github.com/AARdacca/Jmeter-Load-Test-Practice1.git) ```
   - ``` jmeter -n -t '.\booking.jmx' -l '.\booking.jtl' -e -o Reports ``` 
   - ``` jmeter -n -t '.\Dmoney.jmx' -l '.\Dmoney.jtl' -e -o Reports ``` 
 
@@ -39,12 +39,15 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 <h3>Generated HTML report for Load Test</h3>
 
+![1-Jmeter](https://github.com/user-attachments/assets/6070b371-077e-4455-9e64-8ac2413b2988)
 
 
 <h3>Generated HTML report for Stress Test</h3>
 
+![2-Jmeter](https://github.com/user-attachments/assets/4e886905-e2af-4a54-9be1-349055007b2c)
 
 
 <h3>Generated HTML report for DMoney Jmeter Collection Test</h3>
 
+![3-Jmeter](https://github.com/user-attachments/assets/0ab9a2ae-f2fd-49a9-a920-bcfac2b14d2c)
 
