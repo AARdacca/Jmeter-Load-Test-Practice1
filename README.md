@@ -14,7 +14,6 @@ Website for APIs - https://restful-booker.herokuapp.com
 1. 5 agents perform deposits for 10 customers.<br>
 2. 5 customers send money to another 10 customers.<br>
 3. 5 customers make payments to 2 merchants.<br>
-4. Set the ramp-up time to 120 seconds in all the above thread configuration.<br>
 <br>
 Website for APIs - http://dmoney.roadtocareer.net
 
